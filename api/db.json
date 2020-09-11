@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Hera are some stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream (update)",
+      "description": "this was made my me (update)",
+      "id": 3
+    },
+    {
+      "title": "Reuse my form",
+      "description": "reuse form",
+      "id": 4
+    }
+  ]
+}
